@@ -17,7 +17,7 @@ Landing page that counts down from the current date to the next new year
 ---Click Below Link <br>
 [Click View Project](https://mian-ali.github.io/RealTime-NewYear-Countdown/) <br>
 
-### Project Broswer URL
+#### Project Broswer URL
 https://mian-ali.github.io/RealTime-NewYear-Countdown/
 
 
